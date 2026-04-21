@@ -1,1 +1,1 @@
-# -ED-Tech-
+# EdTech 
